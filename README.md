@@ -10,7 +10,7 @@ The full description can be found here: (https://www.mlsustainableenergy.com/tea
 We are looking forward to the following topics:
 - [Probabilistic Numerical Method of Lines](./pnmol)
 - [SINDy](./sindy)
-- [Hamiltonian and Lagrangian Neural Networks](./lagrangian-nn)
+- [Hamiltonian and Lagrangian Neural Networks](./Lagrangian-NN)
 - [Mesh-Based Simulation with Graph Neural Networks](./meshgraphnets)
 - [PDE Learning with Diffusion Models](./diffusion)
 - [Continuous PDE Dynamics Forecasting with Implicit Neural Representations](./dino)
