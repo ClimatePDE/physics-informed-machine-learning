@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClimatePDE/physics-informed-machine-learning/HEAD?urlpath=%2Fdoc%2Ftree%2FREADME.md)
+
 # Physics-Informed Machine Learning
 This repository hosts the tutorials created by the participants of the `Physics-Informed Machine Learning` seminar. 
 
